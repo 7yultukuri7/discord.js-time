@@ -28,4 +28,3 @@ const ms = JTC.getMilliseconds();
 }, 60 * 1000)
 
 });
-});
